@@ -1,0 +1,148 @@
+2024-06-10 14:36:16,315 - actiTime001 -p -URL is opened
+2024-06-10 14:36:16,778 - actiTime001 -p -Entered username
+2024-06-10 14:36:16,893 - actiTime001 -p -Entered password
+2024-06-10 14:36:19,068 - actiTime001 -p -login test passed
+2024-06-10 14:37:47,632 - actiTime001 -p -URL is opened
+2024-06-10 14:37:47,729 - actiTime001 -p -Entered username
+2024-06-10 14:37:47,852 - actiTime001 -p -Entered password
+2024-06-10 14:37:50,061 - actiTime001 -p -login test passed
+2024-06-10 17:42:10,397 - actiTime001 -p -URL is opened
+2024-06-10 17:42:10,510 - actiTime001 -p -Entered username
+2024-06-10 17:42:10,655 - actiTime001 -p -Entered password
+2024-06-10 17:42:12,845 - actiTime001 -p -login test passed
+2024-06-10 17:42:15,102 - actiTime001 -p -logout the application
+2024-06-10 17:42:17,632 - actiTime001 -p -URL is opened
+2024-06-10 17:42:17,770 - actiTime001 -p -Entered username
+2024-06-10 17:42:17,928 - actiTime001 -p -Entered password
+2024-06-10 17:42:22,851 - actiTime001 -p -URL is opened
+2024-06-10 17:42:23,003 - actiTime001 -p -Entered username
+2024-06-10 17:42:23,175 - actiTime001 -p -Entered password
+2024-06-10 17:42:53,325 - actiTime001 -p -URL is opened
+2024-06-10 17:42:53,438 - actiTime001 -p -Entered username
+2024-06-10 17:42:53,550 - actiTime001 -p -Entered password
+2024-06-10 17:42:55,767 - actiTime001 -p -login test passed
+2024-06-10 17:42:58,039 - actiTime001 -p -logout the application
+2024-06-10 17:43:00,499 - actiTime001 -p -URL is opened
+2024-06-10 17:43:00,613 - actiTime001 -p -Entered username
+2024-06-10 17:43:00,748 - actiTime001 -p -Entered password
+2024-06-10 17:43:06,600 - actiTime001 -p -URL is opened
+2024-06-10 17:43:06,718 - actiTime001 -p -Entered username
+2024-06-10 17:43:06,907 - actiTime001 -p -Entered password
+2024-06-10 18:09:45,657 - actiTime001 -p -URL is opened
+2024-06-10 18:09:46,141 - actiTime001 -p -Entered username
+2024-06-10 18:09:46,261 - actiTime001 -p -Entered password
+2024-06-10 18:09:48,456 - actiTime001 -p -login test passed
+2024-06-10 18:11:50,034 - actiTime001 -p -URL is opened
+2024-06-10 18:11:50,140 - actiTime001 -p -Entered username
+2024-06-10 18:11:50,261 - actiTime001 -p -Entered password
+2024-06-10 18:11:52,508 - actiTime001 -p -login test passed
+2024-06-10 18:11:54,557 - actiTime001 -p -URL is opened
+2024-06-10 18:11:55,060 - actiTime001 -p -Entered username
+2024-06-10 18:11:55,194 - actiTime001 -p -Entered password
+2024-06-10 18:11:57,405 - actiTime001 -p -login test passed
+2024-06-10 18:32:18,816 - actiTime001 -p -URL is opened
+2024-06-10 18:32:19,455 - actiTime001 -p -Entered username
+2024-06-10 18:32:19,601 - actiTime001 -p -Entered password
+2024-06-10 18:32:21,790 - actiTime001 -p -login test passed
+2024-06-10 18:32:23,835 - actiTime001 -p -URL is opened
+2024-06-10 18:32:24,332 - actiTime001 -p -Entered username
+2024-06-10 18:32:24,492 - actiTime001 -p -Entered password
+2024-06-10 18:32:26,686 - actiTime001 -p -login test passed
+2024-06-11 00:43:39,855 - actiTime001 -p -URL is opened
+2024-06-11 00:43:39,994 - actiTime001 -p -Entered username
+2024-06-11 00:43:40,160 - actiTime001 -p -Entered password
+2024-06-11 00:43:42,404 - actiTime001 -p -login test passed
+2024-06-11 01:08:58,616 - actiTime001 -p -URL is opened
+2024-06-11 01:08:58,718 - actiTime001 -p -Entered username
+2024-06-11 01:08:58,832 - actiTime001 -p -Entered password
+2024-06-11 01:09:01,028 - actiTime001 -p -login test passed
+2024-06-11 01:09:03,540 - actiTime001 -p -URL is opened
+2024-06-11 01:09:03,656 - actiTime001 -p -Entered username
+2024-06-11 01:09:03,834 - actiTime001 -p -Entered password
+2024-06-11 01:09:06,015 - actiTime001 -p -login test passed
+2024-06-11 01:15:28,035 - actiTime001 -p -URL is opened
+2024-06-11 01:15:28,153 - actiTime001 -p -Entered username
+2024-06-11 01:15:28,276 - actiTime001 -p -Entered password
+2024-06-11 01:15:30,434 - actiTime001 -p -login test passed
+2024-06-11 01:15:43,679 - actiTime001 -p -URL is opened
+2024-06-11 01:15:43,790 - actiTime001 -p -Entered username
+2024-06-11 01:15:43,943 - actiTime001 -p -Entered password
+2024-06-11 01:15:46,112 - actiTime001 -p -login test passed
+2024-06-11 15:29:21,258 - actiTime001 -p -i find the login page
+2024-06-11 15:31:48,082 - actiTime001 -p -i find the login page
+2024-06-11 17:49:26,411 - actiTime001 -p -URL is opened
+2024-06-11 17:49:26,511 - actiTime001 -p -Entered username
+2024-06-11 17:49:26,625 - actiTime001 -p -Entered password
+2024-06-11 17:49:28,846 - actiTime001 -p -login test passed
+2024-06-11 17:49:41,930 - actiTime001 -p -logout the application
+2024-06-11 17:49:44,381 - actiTime001 -p -URL is opened
+2024-06-11 17:49:44,476 - actiTime001 -p -Entered username
+2024-06-11 17:49:44,592 - actiTime001 -p -Entered password
+2024-06-11 17:49:46,781 - actiTime001 -p -login test passed
+2024-06-11 17:50:00,040 - actiTime001 -p -logout the application
+2024-06-11 18:25:35,788 - actiTime001 -p -URL is opened
+2024-06-11 18:25:35,889 - actiTime001 -p -Entered username
+2024-06-11 18:25:36,007 - actiTime001 -p -Entered password
+2024-06-11 18:25:38,224 - actiTime001 -p -login test passed
+2024-06-11 18:25:40,466 - actiTime001 -p -logout the application
+2024-06-11 18:25:43,072 - actiTime001 -p -URL is opened
+2024-06-11 18:25:43,223 - actiTime001 -p -Entered username
+2024-06-11 18:25:43,404 - actiTime001 -p -Entered password
+2024-06-11 18:25:45,553 - actiTime001 -p -login test passed
+2024-06-11 18:25:47,908 - actiTime001 -p -logout the application
+2024-06-11 18:25:50,630 - actiTime001 -p -URL is opened
+2024-06-11 18:25:50,755 - actiTime001 -p -Entered username
+2024-06-11 18:25:50,899 - actiTime001 -p -Entered password
+2024-06-11 18:28:58,633 - actiTime001 -p -URL is opened
+2024-06-11 18:28:58,742 - actiTime001 -p -Entered username
+2024-06-11 18:28:58,859 - actiTime001 -p -Entered password
+2024-06-11 18:29:01,057 - actiTime001 -p -login test passed
+2024-06-14 01:10:56,091 - actiTime001 -p -URL is opened
+2024-06-14 01:10:57,321 - actiTime001 -p -Entered username
+2024-06-14 01:10:57,494 - actiTime001 -p -Entered password
+2024-06-14 01:10:59,697 - actiTime001 -p -login test passed
+2024-06-14 01:46:14,323 - actiTime001 -p -URL is opened
+2024-06-14 01:46:14,947 - actiTime001 -p -Entered username
+2024-06-14 01:46:15,076 - actiTime001 -p -Entered password
+2024-06-14 01:46:17,306 - actiTime001 -p -login test passed
+2024-06-14 16:24:32,883 - actiTime001 -p -URL is opened
+2024-06-14 16:24:33,010 - actiTime001 -p -Entered username
+2024-06-14 16:24:33,130 - actiTime001 -p -Entered password
+2024-06-14 16:24:35,408 - actiTime001 -p -login test passed
+2024-06-14 16:25:17,001 - actiTime001 -p -URL is opened
+2024-06-14 16:25:17,572 - actiTime001 -p -Entered username
+2024-06-14 16:25:17,703 - actiTime001 -p -Entered password
+2024-06-14 16:25:19,932 - actiTime001 -p -login test passed
+2024-06-14 16:51:00,592 - actiTime001 -p -URL is opened
+2024-06-14 16:51:01,115 - actiTime001 -p -Entered username
+2024-06-14 16:51:01,245 - actiTime001 -p -Entered password
+2024-06-14 16:51:03,419 - actiTime001 -p -login test passed
+2024-06-16 11:55:51,261 - actiTime001 -p -URL is opened
+2024-06-16 11:55:51,400 - actiTime001 -p -Entered username
+2024-06-16 11:55:51,530 - actiTime001 -p -Entered password
+2024-06-16 12:43:10,466 - actiTime001 -p -URL is opened
+2024-06-16 12:43:10,604 - actiTime001 -p -Entered username
+2024-06-16 12:43:10,729 - actiTime001 -p -Entered password
+2024-06-16 12:43:13,192 - actiTime001 -p -login test passed
+2024-06-16 12:45:57,437 - actiTime001 -p -URL is opened
+2024-06-16 12:45:58,027 - actiTime001 -p -Entered username
+2024-06-16 12:45:58,168 - actiTime001 -p -Entered password
+2024-06-16 12:47:00,811 - actiTime001 -p -URL is opened
+2024-06-16 12:47:01,563 - actiTime001 -p -Entered username
+2024-06-16 12:47:01,728 - actiTime001 -p -Entered password
+2024-06-16 14:34:17,333 - actiTime001 -p -URL is opened
+2024-06-16 14:34:17,424 - actiTime001 -p -Entered username
+2024-06-16 14:34:17,521 - actiTime001 -p -Entered password
+2024-06-16 14:34:20,164 - actiTime001 -p -login test passed
+2024-06-16 15:22:44,334 - actiTime001 -p -URL is opened
+2024-06-16 15:22:44,546 - actiTime001 -p -Entered username
+2024-06-16 15:22:44,700 - actiTime001 -p -Entered password
+2024-06-16 15:22:47,313 - actiTime001 -p -login test passed
+2024-06-16 15:24:24,591 - actiTime001 -p -URL is opened
+2024-06-16 15:24:24,670 - actiTime001 -p -Entered username
+2024-06-16 15:24:24,740 - actiTime001 -p -Entered password
+2024-06-16 15:24:26,897 - actiTime001 -p -login test passed
+2024-06-16 15:40:45,688 - actiTime001 -p -URL is opened
+2024-06-16 15:40:45,764 - actiTime001 -p -Entered username
+2024-06-16 15:40:45,841 - actiTime001 -p -Entered password
+2024-06-16 15:40:48,024 - actiTime001 -p -login test passed
